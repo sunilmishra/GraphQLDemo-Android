@@ -10,5 +10,4 @@ Apollo Android is a GraphQL compliant client library that generates Java models 
 - Copy .graphqls and schema.json in a android studio folder.
 - Rebuild and now able to access ApolloClient.
 
-
-https://github.com/sunilmishra/GraphQLDemo-Android/blob/master/appolo-studio.png
+https://github.com/sunilmishra/GraphQLDemo-Android/blob/master/apollo-android.png
