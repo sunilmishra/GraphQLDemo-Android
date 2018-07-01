@@ -18,7 +18,7 @@ object MyApolloClient {
                 .build()
 
         return ApolloClient.builder()
-                .serverUrl("http://10.168.50.79:8080/graphql")
+                .serverUrl("http://localhost:8080/graphql")
                 .okHttpClient(okHttpClient)
                 .build()
     }
